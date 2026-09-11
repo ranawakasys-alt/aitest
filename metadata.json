@@ -1,0 +1,6 @@
+{
+  "name": "Bean & Brew",
+  "description": "A simple, modern, and responsive website for the Bean & Brew coffee shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
